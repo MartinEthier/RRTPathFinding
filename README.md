@@ -1,2 +1,2 @@
 # RRTPathFinding
-Implementation of RRT*-Smart path planning algorithm in C++
+Implementation of RRT*-Smart path planning algorithm in Python

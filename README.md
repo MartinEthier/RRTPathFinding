@@ -1,2 +1,2 @@
 # RRTPathFinding
-Implementation of RRT*-Smart path planning algorithm in Python
+Interactive visualizer for RRT*-Smart path planning algorithm using PyQt.
